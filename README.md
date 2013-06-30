@@ -4,7 +4,7 @@
 
 Very simple Google Chrome Extention for delicious.com bookmark.
 
-This implements only one feature, save bookmark context menu that simply invoke [bookmarklet delicious.com recommends](https://delicious.com/tools). In the future, I will implement bookmark listing and search features by [browser action](http://developer.chrome.com/extensions/browserAction.html).
+This implements only one feature, save bookmark context menu that simply invoke [bookmarklet delicious.com recommends](https://delicious.com/tools). I will implement bookmark listing and search features by [browser action](http://developer.chrome.com/extensions/browserAction.html).
 
 ### Screenshot
 
