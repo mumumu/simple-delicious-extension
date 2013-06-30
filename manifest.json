@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "Simple Delicious.com Extension",
+  "description": "Simply right click and save bookmark!",
+  "version": "1.0",
+
+  "default_locale": "en",
+
+  "permissions": [
+    "contextMenus",
+    "tabs", "http://*/*", "https://*/*"
+  ],
+
+  "icons": {
+    "16": "images/delicious-bitty.png",
+    "48": "images/delicious-middle.png",
+    "128": "images/delicious-big.png"
+  },
+
+  "background": {
+    "scripts": ["contextmenu.js"]
+  }
+
+}
